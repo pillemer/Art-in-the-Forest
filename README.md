@@ -1,2 +1,2 @@
-# Art-in-the-Forest
+# Art in the Forest
 Portfolio webpage for Jack Pillemer
